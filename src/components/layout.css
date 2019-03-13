@@ -7,6 +7,7 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #151515 url("../images/bkg.png") 0 0
 }
 article,
 aside,
@@ -620,3 +621,13 @@ pre tt:after {
     font-size: 100%;
   }
 }
+h1, h2, h3, h4, h5, h6 {
+  color: #b5e853;
+}
+p, span {
+  color: #eaeaea;
+}
+a {
+  color: #63c0f5;
+}
+
